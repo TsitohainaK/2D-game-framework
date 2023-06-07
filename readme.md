@@ -1,4 +1,4 @@
-# 2D Game Framework written TypeScript
+# 2D Game Framework written in TypeScript
 
 This is a 2D game framework built with TypeScript, following the Entity-Component-System (ECS) architecture and utilizing the Matter.js physics engine. The framework enables the development of 2D games with realistic physics interactions.
 
@@ -20,14 +20,14 @@ This is a 2D game framework built with TypeScript, following the Entity-Componen
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/game-framework.git`
+1. Clone the repository: `git clone https://github.com/TsitoUw/2D-game-framework.git`
 2. Navigate to the project directory: `cd game-framework`
 3. Install the dependencies: `npm install`
 
 ## Usage
 
 1. Start the development server: `npm run dev`
-2. Open your browser and visit: `http://localhost:3000`
+2. Open your browser and visit: `http://localhost:1080`
 
 ## Deployment
 
@@ -51,4 +51,4 @@ The game framework is open-source and available under the [MIT License](LICENSE)
 
 ## Contact
 
-If you have any questions or feedback, please feel free to reach out to me at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or feedback, please feel free to reach out to me at [tsitohaina.pro@gmail.com](mailto:tsitohaina.pro@gmail.com).
