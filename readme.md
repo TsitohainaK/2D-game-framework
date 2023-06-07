@@ -2,6 +2,8 @@
 
 This is a 2D game framework built with TypeScript, following the Entity-Component-System (ECS) architecture and utilizing the Matter.js physics engine. The framework enables the development of 2D games with realistic physics interactions.
 
+> ps: I'm just begining in designing this such of thing, so feel free to tell me what i can improuve. Also I do it just for fun.
+
 ## Features
 
 - **ECS Architecture**: The framework is designed using the Entity-Component-System architecture, which provides a flexible and scalable approach to building game entities and systems. It allows for easy composition of game objects and separation of concerns.
